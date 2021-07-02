@@ -1,0 +1,1139 @@
+C:\Projects\Learning\Jayhunelectro\Jayhunelectro\bin\Debug\Jayhunelectro.exe.config
+C:\Projects\Learning\Jayhunelectro\Jayhunelectro\bin\Debug\Jayhunelectro.exe
+C:\Projects\Learning\Jayhunelectro\Jayhunelectro\bin\Debug\Jayhunelectro.pdb
+C:\Projects\Learning\Jayhunelectro\Jayhunelectro\bin\Debug\FontAwesome.Sharp.dll
+C:\Projects\Learning\Jayhunelectro\Jayhunelectro\bin\Debug\MetroFramework.Design.dll
+C:\Projects\Learning\Jayhunelectro\Jayhunelectro\bin\Debug\MetroFramework.dll
+C:\Projects\Learning\Jayhunelectro\Jayhunelectro\bin\Debug\MetroFramework.Fonts.dll
+C:\Projects\Learning\Jayhunelectro\Jayhunelectro\bin\Debug\MySql.Data.dll
+C:\Projects\Learning\Jayhunelectro\Jayhunelectro\bin\Debug\Google.Protobuf.dll
+C:\Projects\Learning\Jayhunelectro\Jayhunelectro\bin\Debug\Zstandard.Net.dll
+C:\Projects\Learning\Jayhunelectro\Jayhunelectro\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Projects\Learning\Jayhunelectro\Jayhunelectro\bin\Debug\BouncyCastle.Crypto.dll
+C:\Projects\Learning\Jayhunelectro\Jayhunelectro\bin\Debug\Ubiety.Dns.Core.dll
+C:\Projects\Learning\Jayhunelectro\Jayhunelectro\bin\Debug\Renci.SshNet.dll
+C:\Projects\Learning\Jayhunelectro\Jayhunelectro\bin\Debug\System.Buffers.dll
+C:\Projects\Learning\Jayhunelectro\Jayhunelectro\bin\Debug\K4os.Compression.LZ4.dll
+C:\Projects\Learning\Jayhunelectro\Jayhunelectro\bin\Debug\K4os.Hash.xxHash.dll
+C:\Projects\Learning\Jayhunelectro\Jayhunelectro\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Projects\Learning\Jayhunelectro\Jayhunelectro\bin\Debug\MySql.Data.xml
+C:\Projects\Learning\Jayhunelectro\Jayhunelectro\obj\Debug\Jayhunelectro.csprojAssemblyReference.cache
+C:\Projects\Learning\Jayhunelectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmLogin.resources
+C:\Projects\Learning\Jayhunelectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmSales.resources
+C:\Projects\Learning\Jayhunelectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmWaiting.resources
+C:\Projects\Learning\Jayhunelectro\Jayhunelectro\obj\Debug\Jayhunelectro.Properties.Resources.resources
+C:\Projects\Learning\Jayhunelectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmSaleQuantity.resources
+C:\Projects\Learning\Jayhunelectro\Jayhunelectro\obj\Debug\Jayhunelectro.csproj.GenerateResource.cache
+C:\Projects\Learning\Jayhunelectro\Jayhunelectro\obj\Debug\Jayhunelectro.csproj.CoreCompileInputs.cache
+C:\Projects\Learning\Jayhunelectro\Jayhunelectro\obj\Debug\Jayhunelectro.csproj.CopyComplete
+C:\Projects\Learning\Jayhunelectro\Jayhunelectro\obj\Debug\Jayhunelectro.exe
+C:\Projects\Learning\Jayhunelectro\Jayhunelectro\obj\Debug\Jayhunelectro.pdb
+E:\JayhunElectro\Jayhunelectro\bin\Debug\Jayhunelectro.exe.config
+E:\JayhunElectro\Jayhunelectro\bin\Debug\Jayhunelectro.exe
+E:\JayhunElectro\Jayhunelectro\bin\Debug\Jayhunelectro.pdb
+E:\JayhunElectro\Jayhunelectro\bin\Debug\FontAwesome.Sharp.dll
+E:\JayhunElectro\Jayhunelectro\bin\Debug\MetroFramework.Design.dll
+E:\JayhunElectro\Jayhunelectro\bin\Debug\MetroFramework.dll
+E:\JayhunElectro\Jayhunelectro\bin\Debug\MetroFramework.Fonts.dll
+E:\JayhunElectro\Jayhunelectro\bin\Debug\MySql.Data.dll
+E:\JayhunElectro\Jayhunelectro\bin\Debug\Google.Protobuf.dll
+E:\JayhunElectro\Jayhunelectro\bin\Debug\Zstandard.Net.dll
+E:\JayhunElectro\Jayhunelectro\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\JayhunElectro\Jayhunelectro\bin\Debug\BouncyCastle.Crypto.dll
+E:\JayhunElectro\Jayhunelectro\bin\Debug\Ubiety.Dns.Core.dll
+E:\JayhunElectro\Jayhunelectro\bin\Debug\Renci.SshNet.dll
+E:\JayhunElectro\Jayhunelectro\bin\Debug\System.Buffers.dll
+E:\JayhunElectro\Jayhunelectro\bin\Debug\K4os.Compression.LZ4.dll
+E:\JayhunElectro\Jayhunelectro\bin\Debug\K4os.Hash.xxHash.dll
+E:\JayhunElectro\Jayhunelectro\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\JayhunElectro\Jayhunelectro\bin\Debug\MySql.Data.xml
+E:\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.csprojAssemblyReference.cache
+E:\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmLogin.resources
+E:\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmSales.resources
+E:\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmWaiting.resources
+E:\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.Properties.Resources.resources
+E:\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmSaleQuantity.resources
+E:\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.csproj.GenerateResource.cache
+E:\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.csproj.CoreCompileInputs.cache
+E:\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.csproj.CopyComplete
+E:\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.exe
+E:\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.pdb
+D:\UmumiyBaza\JayhunElectro\Jayhunelectro\bin\Debug\Jayhunelectro.exe.config
+D:\UmumiyBaza\JayhunElectro\Jayhunelectro\bin\Debug\Jayhunelectro.exe
+D:\UmumiyBaza\JayhunElectro\Jayhunelectro\bin\Debug\Jayhunelectro.pdb
+D:\UmumiyBaza\JayhunElectro\Jayhunelectro\bin\Debug\FontAwesome.Sharp.dll
+D:\UmumiyBaza\JayhunElectro\Jayhunelectro\bin\Debug\MetroFramework.Design.dll
+D:\UmumiyBaza\JayhunElectro\Jayhunelectro\bin\Debug\MetroFramework.dll
+D:\UmumiyBaza\JayhunElectro\Jayhunelectro\bin\Debug\MetroFramework.Fonts.dll
+D:\UmumiyBaza\JayhunElectro\Jayhunelectro\bin\Debug\MySql.Data.dll
+D:\UmumiyBaza\JayhunElectro\Jayhunelectro\bin\Debug\Google.Protobuf.dll
+D:\UmumiyBaza\JayhunElectro\Jayhunelectro\bin\Debug\Zstandard.Net.dll
+D:\UmumiyBaza\JayhunElectro\Jayhunelectro\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\UmumiyBaza\JayhunElectro\Jayhunelectro\bin\Debug\BouncyCastle.Crypto.dll
+D:\UmumiyBaza\JayhunElectro\Jayhunelectro\bin\Debug\Ubiety.Dns.Core.dll
+D:\UmumiyBaza\JayhunElectro\Jayhunelectro\bin\Debug\Renci.SshNet.dll
+D:\UmumiyBaza\JayhunElectro\Jayhunelectro\bin\Debug\System.Buffers.dll
+D:\UmumiyBaza\JayhunElectro\Jayhunelectro\bin\Debug\K4os.Compression.LZ4.dll
+D:\UmumiyBaza\JayhunElectro\Jayhunelectro\bin\Debug\K4os.Hash.xxHash.dll
+D:\UmumiyBaza\JayhunElectro\Jayhunelectro\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\UmumiyBaza\JayhunElectro\Jayhunelectro\bin\Debug\MySql.Data.xml
+D:\UmumiyBaza\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.csprojAssemblyReference.cache
+D:\UmumiyBaza\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmLogin.resources
+D:\UmumiyBaza\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmSales.resources
+D:\UmumiyBaza\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmWaiting.resources
+D:\UmumiyBaza\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.Properties.Resources.resources
+D:\UmumiyBaza\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmSaleQuantity.resources
+D:\UmumiyBaza\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.csproj.GenerateResource.cache
+D:\UmumiyBaza\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.csproj.CoreCompileInputs.cache
+D:\UmumiyBaza\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.csproj.CopyComplete
+D:\UmumiyBaza\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.exe
+D:\UmumiyBaza\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.pdb
+D:\UmumiyBaza\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmTovarQabuli.resources
+D:\UmumiyBaza\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmFakturaItem.resources
+C:\Projects\UmumiyBaza\JayhunElectro\Jayhunelectro\bin\Debug\Jayhunelectro.exe.config
+C:\Projects\UmumiyBaza\JayhunElectro\Jayhunelectro\bin\Debug\Jayhunelectro.exe
+C:\Projects\UmumiyBaza\JayhunElectro\Jayhunelectro\bin\Debug\Jayhunelectro.pdb
+C:\Projects\UmumiyBaza\JayhunElectro\Jayhunelectro\bin\Debug\FontAwesome.Sharp.dll
+C:\Projects\UmumiyBaza\JayhunElectro\Jayhunelectro\bin\Debug\MetroFramework.Design.dll
+C:\Projects\UmumiyBaza\JayhunElectro\Jayhunelectro\bin\Debug\MetroFramework.dll
+C:\Projects\UmumiyBaza\JayhunElectro\Jayhunelectro\bin\Debug\MetroFramework.Fonts.dll
+C:\Projects\UmumiyBaza\JayhunElectro\Jayhunelectro\bin\Debug\MySql.Data.dll
+C:\Projects\UmumiyBaza\JayhunElectro\Jayhunelectro\bin\Debug\Google.Protobuf.dll
+C:\Projects\UmumiyBaza\JayhunElectro\Jayhunelectro\bin\Debug\Zstandard.Net.dll
+C:\Projects\UmumiyBaza\JayhunElectro\Jayhunelectro\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Projects\UmumiyBaza\JayhunElectro\Jayhunelectro\bin\Debug\BouncyCastle.Crypto.dll
+C:\Projects\UmumiyBaza\JayhunElectro\Jayhunelectro\bin\Debug\Ubiety.Dns.Core.dll
+C:\Projects\UmumiyBaza\JayhunElectro\Jayhunelectro\bin\Debug\Renci.SshNet.dll
+C:\Projects\UmumiyBaza\JayhunElectro\Jayhunelectro\bin\Debug\System.Buffers.dll
+C:\Projects\UmumiyBaza\JayhunElectro\Jayhunelectro\bin\Debug\K4os.Compression.LZ4.dll
+C:\Projects\UmumiyBaza\JayhunElectro\Jayhunelectro\bin\Debug\K4os.Hash.xxHash.dll
+C:\Projects\UmumiyBaza\JayhunElectro\Jayhunelectro\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Projects\UmumiyBaza\JayhunElectro\Jayhunelectro\bin\Debug\MySql.Data.xml
+C:\Projects\UmumiyBaza\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.csprojAssemblyReference.cache
+C:\Projects\UmumiyBaza\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmFakturaItem.resources
+C:\Projects\UmumiyBaza\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmLogin.resources
+C:\Projects\UmumiyBaza\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmSales.resources
+C:\Projects\UmumiyBaza\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmWaiting.resources
+C:\Projects\UmumiyBaza\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.Properties.Resources.resources
+C:\Projects\UmumiyBaza\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmSaleQuantity.resources
+C:\Projects\UmumiyBaza\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmTovarQabuli.resources
+C:\Projects\UmumiyBaza\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.csproj.GenerateResource.cache
+C:\Projects\UmumiyBaza\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.csproj.CoreCompileInputs.cache
+C:\Projects\UmumiyBaza\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.csproj.CopyComplete
+C:\Projects\UmumiyBaza\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.exe
+C:\Projects\UmumiyBaza\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.pdb
+C:\Projects\UmumiyBaza\JayhunElectro\Jayhunelectro\bin\Debug\MetroSet UI.dll
+C:\Projects\UmumiyBaza\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.SoldList.resources
+C:\Projects\UmumiyBaza\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmMainMenu.resources
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmFakturaItem.resources
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmLogin.resources
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmDebt.resources
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmMainMenu.resources
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmSales.resources
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmWaiting.resources
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.Properties.Resources.resources
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmSaleQuantity.resources
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.SoldList.resources
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmTovarQabuli.resources
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.csproj.GenerateResource.cache
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.csproj.CoreCompileInputs.cache
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.csproj.CopyComplete
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.exe
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.pdb
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmDebtList.resources
+D:\Filiallar\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmFakturaItem.resources
+D:\Filiallar\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmLogin.resources
+D:\Filiallar\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmDebt.resources
+D:\Filiallar\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmDebtList.resources
+D:\Filiallar\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmMainMenu.resources
+D:\Filiallar\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmSales.resources
+D:\Filiallar\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmWaiting.resources
+D:\Filiallar\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.Properties.Resources.resources
+D:\Filiallar\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmSaleQuantity.resources
+D:\Filiallar\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.SoldList.resources
+D:\Filiallar\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmTovarQabuli.resources
+D:\Filiallar\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.csproj.GenerateResource.cache
+D:\Filiallar\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.csproj.CoreCompileInputs.cache
+D:\Filiallar\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.csproj.CopyComplete
+D:\Filiallar\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.exe
+D:\Filiallar\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.pdb
+D:\Filiallar\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmTulov.resources
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmTulov.resources
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmDebtTulov.resources
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmReturnQuantity.resources
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Filiallar\Filiallar\JayhunElectro\Jayhunelectro\bin\Debug\Jayhunelectro.exe.config
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Filiallar\Filiallar\JayhunElectro\Jayhunelectro\bin\Debug\Jayhunelectro.exe
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Filiallar\Filiallar\JayhunElectro\Jayhunelectro\bin\Debug\Jayhunelectro.pdb
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Filiallar\Filiallar\JayhunElectro\Jayhunelectro\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Filiallar\Filiallar\JayhunElectro\Jayhunelectro\bin\Debug\MetroFramework.Design.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Filiallar\Filiallar\JayhunElectro\Jayhunelectro\bin\Debug\MetroFramework.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Filiallar\Filiallar\JayhunElectro\Jayhunelectro\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Filiallar\Filiallar\JayhunElectro\Jayhunelectro\bin\Debug\MetroSet UI.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Filiallar\Filiallar\JayhunElectro\Jayhunelectro\bin\Debug\MySql.Data.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Filiallar\Filiallar\JayhunElectro\Jayhunelectro\bin\Debug\Google.Protobuf.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Filiallar\Filiallar\JayhunElectro\Jayhunelectro\bin\Debug\Zstandard.Net.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Filiallar\Filiallar\JayhunElectro\Jayhunelectro\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Filiallar\Filiallar\JayhunElectro\Jayhunelectro\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Filiallar\Filiallar\JayhunElectro\Jayhunelectro\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Filiallar\Filiallar\JayhunElectro\Jayhunelectro\bin\Debug\Renci.SshNet.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Filiallar\Filiallar\JayhunElectro\Jayhunelectro\bin\Debug\System.Buffers.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Filiallar\Filiallar\JayhunElectro\Jayhunelectro\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Filiallar\Filiallar\JayhunElectro\Jayhunelectro\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Filiallar\Filiallar\JayhunElectro\Jayhunelectro\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Filiallar\Filiallar\JayhunElectro\Jayhunelectro\bin\Debug\MySql.Data.xml
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Filiallar\Filiallar\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmDebtTulov.resources
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Filiallar\Filiallar\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmFakturaItem.resources
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Filiallar\Filiallar\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmLogin.resources
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Filiallar\Filiallar\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmDebt.resources
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Filiallar\Filiallar\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmDebtList.resources
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Filiallar\Filiallar\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmMainMenu.resources
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Filiallar\Filiallar\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmReturnQuantity.resources
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Filiallar\Filiallar\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmSales.resources
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Filiallar\Filiallar\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmTulov.resources
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Filiallar\Filiallar\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmWaiting.resources
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Filiallar\Filiallar\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.Properties.Resources.resources
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Filiallar\Filiallar\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmSaleQuantity.resources
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Filiallar\Filiallar\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.SoldList.resources
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Filiallar\Filiallar\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmTovarQabuli.resources
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Filiallar\Filiallar\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.csproj.GenerateResource.cache
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Filiallar\Filiallar\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.csproj.CoreCompileInputs.cache
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Filiallar\Filiallar\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.csproj.CopyComplete
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Filiallar\Filiallar\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.exe
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Filiallar\Filiallar\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.pdb
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Filiallar\Filiallar\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.csprojAssemblyReference.cache
+D:\Filiallar\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmDebtTulov.resources
+D:\Filiallar\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmReturnQuantity.resources
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\Jayhunelectro.exe.config
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\Jayhunelectro.exe
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\Jayhunelectro.pdb
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\FontAwesome.Sharp.dll
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\MetroFramework.Design.dll
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\MetroFramework.dll
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\MetroFramework.Fonts.dll
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\MetroSet UI.dll
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\MySql.Data.dll
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\Google.Protobuf.dll
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\Zstandard.Net.dll
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\K4os.Compression.LZ4.Streams.dll
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\BouncyCastle.Crypto.dll
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\Ubiety.Dns.Core.dll
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\Renci.SshNet.dll
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\System.Buffers.dll
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\K4os.Compression.LZ4.dll
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\K4os.Hash.xxHash.dll
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\System.Runtime.CompilerServices.Unsafe.dll
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\MySql.Data.xml
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Filiallar\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmDebtTulov.resources
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Filiallar\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmFakturaItem.resources
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Filiallar\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmLogin.resources
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Filiallar\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmDebt.resources
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Filiallar\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmDebtList.resources
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Filiallar\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmMainMenu.resources
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Filiallar\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmReturnQuantity.resources
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Filiallar\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmSales.resources
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Filiallar\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmTulov.resources
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Filiallar\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmWaiting.resources
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Filiallar\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.Properties.Resources.resources
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Filiallar\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmSaleQuantity.resources
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Filiallar\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.SoldList.resources
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Filiallar\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmTovarQabuli.resources
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Filiallar\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.csproj.GenerateResource.cache
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Filiallar\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.csproj.CoreCompileInputs.cache
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Filiallar\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.csproj.CopyComplete
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Filiallar\JayhunElectro\Jayhunelectro\Jayhunelectro.exe.config
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Filiallar\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.exe
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Filiallar\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.pdb
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Filiallar\JayhunElectro\Jayhunelectro\Jayhunelectro.exe
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Filiallar\JayhunElectro\Jayhunelectro\Jayhunelectro.pdb
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Filiallar\JayhunElectro\Jayhunelectro\FontAwesome.Sharp.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Filiallar\JayhunElectro\Jayhunelectro\MetroFramework.Design.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Filiallar\JayhunElectro\Jayhunelectro\MetroFramework.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Filiallar\JayhunElectro\Jayhunelectro\MetroFramework.Fonts.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Filiallar\JayhunElectro\Jayhunelectro\MetroSet UI.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Filiallar\JayhunElectro\Jayhunelectro\MySql.Data.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Filiallar\JayhunElectro\Jayhunelectro\Google.Protobuf.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Filiallar\JayhunElectro\Jayhunelectro\Zstandard.Net.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Filiallar\JayhunElectro\Jayhunelectro\K4os.Compression.LZ4.Streams.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Filiallar\JayhunElectro\Jayhunelectro\BouncyCastle.Crypto.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Filiallar\JayhunElectro\Jayhunelectro\Ubiety.Dns.Core.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Filiallar\JayhunElectro\Jayhunelectro\Renci.SshNet.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Filiallar\JayhunElectro\Jayhunelectro\System.Buffers.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Filiallar\JayhunElectro\Jayhunelectro\K4os.Compression.LZ4.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Filiallar\JayhunElectro\Jayhunelectro\K4os.Hash.xxHash.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Filiallar\JayhunElectro\Jayhunelectro\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Filiallar\JayhunElectro\Jayhunelectro\MySql.Data.xml
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmCashDesk.resources
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\Newtonsoft.Json.dll
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\System.Json.dll
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\Newtonsoft.Json.xml
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\System.Json.xml
+D:\Filiallar\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmCashDesk.resources
+D:\Filiallar\JayhunElectro\Jayhunelectro\Jayhunelectro.exe.config
+D:\Filiallar\JayhunElectro\Jayhunelectro\Jayhunelectro.exe
+D:\Filiallar\JayhunElectro\Jayhunelectro\Jayhunelectro.pdb
+D:\Filiallar\JayhunElectro\Jayhunelectro\FontAwesome.Sharp.dll
+D:\Filiallar\JayhunElectro\Jayhunelectro\MetroFramework.Design.dll
+D:\Filiallar\JayhunElectro\Jayhunelectro\MetroFramework.dll
+D:\Filiallar\JayhunElectro\Jayhunelectro\MetroFramework.Fonts.dll
+D:\Filiallar\JayhunElectro\Jayhunelectro\MetroSet UI.dll
+D:\Filiallar\JayhunElectro\Jayhunelectro\MySql.Data.dll
+D:\Filiallar\JayhunElectro\Jayhunelectro\Newtonsoft.Json.dll
+D:\Filiallar\JayhunElectro\Jayhunelectro\System.Json.dll
+D:\Filiallar\JayhunElectro\Jayhunelectro\Google.Protobuf.dll
+D:\Filiallar\JayhunElectro\Jayhunelectro\Zstandard.Net.dll
+D:\Filiallar\JayhunElectro\Jayhunelectro\K4os.Compression.LZ4.Streams.dll
+D:\Filiallar\JayhunElectro\Jayhunelectro\BouncyCastle.Crypto.dll
+D:\Filiallar\JayhunElectro\Jayhunelectro\Ubiety.Dns.Core.dll
+D:\Filiallar\JayhunElectro\Jayhunelectro\Renci.SshNet.dll
+D:\Filiallar\JayhunElectro\Jayhunelectro\System.Buffers.dll
+D:\Filiallar\JayhunElectro\Jayhunelectro\K4os.Compression.LZ4.dll
+D:\Filiallar\JayhunElectro\Jayhunelectro\K4os.Hash.xxHash.dll
+D:\Filiallar\JayhunElectro\Jayhunelectro\System.Runtime.CompilerServices.Unsafe.dll
+D:\Filiallar\JayhunElectro\Jayhunelectro\MySql.Data.xml
+D:\Filiallar\JayhunElectro\Jayhunelectro\Newtonsoft.Json.xml
+D:\Filiallar\JayhunElectro\Jayhunelectro\System.Json.xml
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.exe.config
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\Microsoft.Win32.Primitives.dll
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\netstandard.dll
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\System.AppContext.dll
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\System.Collections.Concurrent.dll
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\System.Collections.dll
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\System.Collections.NonGeneric.dll
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\System.Collections.Specialized.dll
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\System.ComponentModel.dll
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\System.ComponentModel.EventBasedAsync.dll
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\System.ComponentModel.Primitives.dll
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\System.ComponentModel.TypeConverter.dll
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\System.Console.dll
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\System.Data.Common.dll
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\System.Diagnostics.Contracts.dll
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\System.Diagnostics.Debug.dll
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\System.Diagnostics.FileVersionInfo.dll
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\System.Diagnostics.Process.dll
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\System.Diagnostics.StackTrace.dll
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\System.Diagnostics.TextWriterTraceListener.dll
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\System.Diagnostics.Tools.dll
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\System.Diagnostics.TraceSource.dll
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\System.Diagnostics.Tracing.dll
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\System.Drawing.Primitives.dll
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\System.Dynamic.Runtime.dll
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\System.Globalization.Calendars.dll
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\System.Globalization.dll
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\System.Globalization.Extensions.dll
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\System.IO.Compression.dll
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\System.IO.Compression.ZipFile.dll
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\System.IO.dll
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\System.IO.FileSystem.dll
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\System.IO.FileSystem.DriveInfo.dll
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\System.IO.FileSystem.Primitives.dll
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\System.IO.FileSystem.Watcher.dll
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\System.IO.IsolatedStorage.dll
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\System.IO.MemoryMappedFiles.dll
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\System.IO.Pipes.dll
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\System.IO.UnmanagedMemoryStream.dll
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\System.Linq.dll
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\System.Linq.Expressions.dll
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\System.Linq.Parallel.dll
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\System.Linq.Queryable.dll
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\System.Net.Http.dll
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\System.Net.NameResolution.dll
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\System.Net.NetworkInformation.dll
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\System.Net.Ping.dll
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\System.Net.Primitives.dll
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\System.Net.Requests.dll
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\System.Net.Security.dll
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\System.Net.Sockets.dll
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\System.Net.WebHeaderCollection.dll
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\System.Net.WebSockets.Client.dll
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\System.Net.WebSockets.dll
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\System.ObjectModel.dll
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\System.Reflection.dll
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\System.Reflection.Extensions.dll
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\System.Reflection.Primitives.dll
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\System.Resources.Reader.dll
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\System.Resources.ResourceManager.dll
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\System.Resources.Writer.dll
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\System.Runtime.CompilerServices.VisualC.dll
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\System.Runtime.dll
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\System.Runtime.Extensions.dll
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\System.Runtime.Handles.dll
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\System.Runtime.InteropServices.dll
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\System.Runtime.Numerics.dll
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\System.Runtime.Serialization.Formatters.dll
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\System.Runtime.Serialization.Json.dll
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\System.Runtime.Serialization.Primitives.dll
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\System.Runtime.Serialization.Xml.dll
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\System.Security.Claims.dll
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\System.Security.Cryptography.Algorithms.dll
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\System.Security.Cryptography.Csp.dll
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\System.Security.Cryptography.Encoding.dll
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\System.Security.Cryptography.Primitives.dll
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\System.Security.Cryptography.X509Certificates.dll
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\System.Security.Principal.dll
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\System.Security.SecureString.dll
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\System.Text.Encoding.dll
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\System.Text.Encoding.Extensions.dll
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\System.Text.RegularExpressions.dll
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\System.Threading.dll
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\System.Threading.Overlapped.dll
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\System.Threading.Tasks.dll
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\System.Threading.Tasks.Parallel.dll
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\System.Threading.Thread.dll
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\System.Threading.ThreadPool.dll
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\System.Threading.Timer.dll
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\System.ValueTuple.dll
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\System.Xml.ReaderWriter.dll
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\System.Xml.XDocument.dll
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\System.Xml.XmlDocument.dll
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\System.Xml.XmlSerializer.dll
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\System.Xml.XPath.dll
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\System.Xml.XPath.XDocument.dll
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\BarcodeStandard.dll
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\System.Drawing.Common.dll
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmCheck.resources
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmCashCheck.resources
+C:\Projects\Filiallar\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.csprojAssemblyReference.cache
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.csprojAssemblyReference.cache
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.exe.config
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmCashCheck.resources
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmCashDesk.resources
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmCheck.resources
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmDebtTulov.resources
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmFakturaItem.resources
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmLogin.resources
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmDebt.resources
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmDebtList.resources
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmMainMenu.resources
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmReturnQuantity.resources
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmSales.resources
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmTulov.resources
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmWaiting.resources
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.Properties.Resources.resources
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmSaleQuantity.resources
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.SoldList.resources
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmTovarQabuli.resources
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.csproj.GenerateResource.cache
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.csproj.CoreCompileInputs.cache
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.csproj.CopyComplete
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\Jayhunelectro.exe.config
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.exe
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.pdb
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\Jayhunelectro.exe
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\Jayhunelectro.pdb
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\Microsoft.Win32.Primitives.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\netstandard.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.AppContext.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Collections.Concurrent.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Collections.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Collections.NonGeneric.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Collections.Specialized.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.ComponentModel.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.ComponentModel.Primitives.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.ComponentModel.TypeConverter.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Console.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Data.Common.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Diagnostics.Contracts.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Diagnostics.Debug.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Diagnostics.Process.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Diagnostics.StackTrace.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Diagnostics.Tools.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Diagnostics.TraceSource.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Diagnostics.Tracing.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Drawing.Primitives.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Dynamic.Runtime.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Globalization.Calendars.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Globalization.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Globalization.Extensions.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.IO.Compression.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.IO.Compression.ZipFile.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.IO.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.IO.FileSystem.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.IO.FileSystem.Primitives.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.IO.FileSystem.Watcher.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.IO.IsolatedStorage.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.IO.MemoryMappedFiles.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.IO.Pipes.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Linq.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Linq.Expressions.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Linq.Parallel.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Linq.Queryable.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Net.Http.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Net.NameResolution.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Net.NetworkInformation.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Net.Ping.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Net.Primitives.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Net.Requests.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Net.Security.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Net.Sockets.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Net.WebHeaderCollection.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Net.WebSockets.Client.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Net.WebSockets.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.ObjectModel.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Reflection.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Reflection.Extensions.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Reflection.Primitives.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Resources.Reader.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Resources.ResourceManager.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Resources.Writer.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Runtime.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Runtime.Extensions.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Runtime.Handles.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Runtime.InteropServices.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Runtime.Numerics.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Runtime.Serialization.Formatters.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Runtime.Serialization.Json.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Runtime.Serialization.Primitives.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Runtime.Serialization.Xml.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Security.Claims.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Security.Cryptography.Algorithms.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Security.Cryptography.Csp.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Security.Cryptography.Encoding.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Security.Cryptography.Primitives.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Security.Principal.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Security.SecureString.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Text.Encoding.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Text.Encoding.Extensions.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Text.RegularExpressions.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Threading.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Threading.Overlapped.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Threading.Tasks.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Threading.Tasks.Parallel.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Threading.Thread.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Threading.ThreadPool.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Threading.Timer.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.ValueTuple.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Xml.ReaderWriter.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Xml.XDocument.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Xml.XmlDocument.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Xml.XmlSerializer.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Xml.XPath.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Xml.XPath.XDocument.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\BarcodeStandard.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\FontAwesome.Sharp.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\MetroFramework.Design.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\MetroFramework.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\MetroFramework.Fonts.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\MetroSet UI.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\MySql.Data.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\Newtonsoft.Json.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Drawing.Common.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Json.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\Google.Protobuf.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\Zstandard.Net.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\K4os.Compression.LZ4.Streams.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\BouncyCastle.Crypto.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\Ubiety.Dns.Core.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\Renci.SshNet.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Buffers.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\K4os.Compression.LZ4.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\K4os.Hash.xxHash.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Memory.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Numerics.Vectors.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\MySql.Data.xml
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\Newtonsoft.Json.xml
+C:\Users\Sardorbek\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Json.xml
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.exe.config
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmCashCheck.resources
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmCashDesk.resources
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmCheck.resources
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmDebtTulov.resources
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmFakturaItem.resources
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmLogin.resources
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmDebt.resources
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmDebtList.resources
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmMainMenu.resources
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmReturnQuantity.resources
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmSales.resources
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmTulov.resources
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmWaiting.resources
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.Properties.Resources.resources
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmSaleQuantity.resources
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.SoldList.resources
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmTovarQabuli.resources
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.csproj.GenerateResource.cache
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.csproj.CoreCompileInputs.cache
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.exe
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.pdb
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.csproj.CopyComplete
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\Jayhunelectro.exe.config
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\Jayhunelectro.exe
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\Jayhunelectro.pdb
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\Microsoft.Win32.Primitives.dll
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\netstandard.dll
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.AppContext.dll
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Collections.Concurrent.dll
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Collections.dll
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Collections.NonGeneric.dll
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Collections.Specialized.dll
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.ComponentModel.dll
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.ComponentModel.Primitives.dll
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.ComponentModel.TypeConverter.dll
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Console.dll
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Data.Common.dll
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Diagnostics.Contracts.dll
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Diagnostics.Debug.dll
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Diagnostics.Process.dll
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Diagnostics.StackTrace.dll
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Diagnostics.Tools.dll
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Diagnostics.TraceSource.dll
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Diagnostics.Tracing.dll
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Drawing.Primitives.dll
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Dynamic.Runtime.dll
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Globalization.Calendars.dll
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Globalization.dll
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Globalization.Extensions.dll
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.IO.Compression.dll
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.IO.Compression.ZipFile.dll
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.IO.dll
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.IO.FileSystem.dll
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.IO.FileSystem.Primitives.dll
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.IO.FileSystem.Watcher.dll
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.IO.IsolatedStorage.dll
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.IO.MemoryMappedFiles.dll
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.IO.Pipes.dll
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Linq.dll
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Linq.Expressions.dll
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Linq.Parallel.dll
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Linq.Queryable.dll
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Net.Http.dll
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Net.NameResolution.dll
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Net.NetworkInformation.dll
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Net.Ping.dll
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Net.Primitives.dll
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Net.Requests.dll
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Net.Security.dll
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Net.Sockets.dll
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Net.WebHeaderCollection.dll
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Net.WebSockets.Client.dll
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Net.WebSockets.dll
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.ObjectModel.dll
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Reflection.dll
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Reflection.Extensions.dll
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Reflection.Primitives.dll
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Resources.Reader.dll
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Resources.ResourceManager.dll
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Resources.Writer.dll
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Runtime.dll
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Runtime.Extensions.dll
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Runtime.Handles.dll
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Runtime.InteropServices.dll
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Runtime.Numerics.dll
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Runtime.Serialization.Formatters.dll
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Runtime.Serialization.Json.dll
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Runtime.Serialization.Primitives.dll
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Runtime.Serialization.Xml.dll
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Security.Claims.dll
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Security.Cryptography.Algorithms.dll
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Security.Cryptography.Csp.dll
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Security.Cryptography.Encoding.dll
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Security.Cryptography.Primitives.dll
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Security.Principal.dll
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Security.SecureString.dll
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Text.Encoding.dll
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Text.Encoding.Extensions.dll
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Text.RegularExpressions.dll
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Threading.dll
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Threading.Overlapped.dll
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Threading.Tasks.dll
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Threading.Tasks.Parallel.dll
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Threading.Thread.dll
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Threading.ThreadPool.dll
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Threading.Timer.dll
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.ValueTuple.dll
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Xml.ReaderWriter.dll
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Xml.XDocument.dll
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Xml.XmlDocument.dll
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Xml.XmlSerializer.dll
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Xml.XPath.dll
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Xml.XPath.XDocument.dll
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\BarcodeStandard.dll
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\FontAwesome.Sharp.dll
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\MetroFramework.Design.dll
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\MetroFramework.dll
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\MetroFramework.Fonts.dll
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\MetroSet UI.dll
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\MySql.Data.dll
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\Newtonsoft.Json.dll
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Drawing.Common.dll
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Json.dll
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\Google.Protobuf.dll
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\Zstandard.Net.dll
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\K4os.Compression.LZ4.Streams.dll
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\BouncyCastle.Crypto.dll
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\Ubiety.Dns.Core.dll
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\Renci.SshNet.dll
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Buffers.dll
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\K4os.Compression.LZ4.dll
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\K4os.Hash.xxHash.dll
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\MySql.Data.xml
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\Newtonsoft.Json.xml
+C:\Users\Pilotech\Downloads\Telegram Desktop\JayhunElectro\Jayhunelectro\System.Json.xml
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.exe.config
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmCashCheck.resources
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmCashDesk.resources
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmCheck.resources
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmDebtTulov.resources
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmFakturaItem.resources
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmLogin.resources
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmDebt.resources
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmDebtList.resources
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmMainMenu.resources
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmReturnQuantity.resources
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmSales.resources
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmTulov.resources
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmWaiting.resources
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.Properties.Resources.resources
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmSaleQuantity.resources
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.SoldList.resources
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmTovarQabuli.resources
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.csproj.GenerateResource.cache
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.csproj.CoreCompileInputs.cache
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.csproj.CopyComplete
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\Jayhunelectro.exe.config
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.exe
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.pdb
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\Jayhunelectro.exe
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\Jayhunelectro.pdb
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\Microsoft.Win32.Primitives.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\netstandard.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\System.AppContext.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\System.Collections.Concurrent.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\System.Collections.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\System.Collections.NonGeneric.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\System.Collections.Specialized.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\System.ComponentModel.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\System.ComponentModel.Primitives.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\System.ComponentModel.TypeConverter.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\System.Console.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\System.Data.Common.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\System.Diagnostics.Contracts.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\System.Diagnostics.Debug.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\System.Diagnostics.Process.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\System.Diagnostics.StackTrace.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\System.Diagnostics.Tools.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\System.Diagnostics.TraceSource.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\System.Diagnostics.Tracing.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\System.Drawing.Primitives.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\System.Dynamic.Runtime.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\System.Globalization.Calendars.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\System.Globalization.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\System.Globalization.Extensions.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\System.IO.Compression.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\System.IO.Compression.ZipFile.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\System.IO.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\System.IO.FileSystem.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\System.IO.FileSystem.Primitives.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\System.IO.FileSystem.Watcher.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\System.IO.IsolatedStorage.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\System.IO.MemoryMappedFiles.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\System.IO.Pipes.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\System.Linq.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\System.Linq.Expressions.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\System.Linq.Parallel.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\System.Linq.Queryable.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\System.Net.Http.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\System.Net.NameResolution.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\System.Net.NetworkInformation.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\System.Net.Ping.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\System.Net.Primitives.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\System.Net.Requests.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\System.Net.Security.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\System.Net.Sockets.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\System.Net.WebHeaderCollection.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\System.Net.WebSockets.Client.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\System.Net.WebSockets.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\System.ObjectModel.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\System.Reflection.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\System.Reflection.Extensions.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\System.Reflection.Primitives.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\System.Resources.Reader.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\System.Resources.ResourceManager.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\System.Resources.Writer.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\System.Runtime.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\System.Runtime.Extensions.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\System.Runtime.Handles.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\System.Runtime.InteropServices.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\System.Runtime.Numerics.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\System.Runtime.Serialization.Formatters.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\System.Runtime.Serialization.Json.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\System.Runtime.Serialization.Primitives.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\System.Runtime.Serialization.Xml.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\System.Security.Claims.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\System.Security.Cryptography.Algorithms.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\System.Security.Cryptography.Csp.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\System.Security.Cryptography.Encoding.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\System.Security.Cryptography.Primitives.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\System.Security.Principal.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\System.Security.SecureString.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\System.Text.Encoding.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\System.Text.Encoding.Extensions.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\System.Text.RegularExpressions.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\System.Threading.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\System.Threading.Overlapped.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\System.Threading.Tasks.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\System.Threading.Tasks.Parallel.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\System.Threading.Thread.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\System.Threading.ThreadPool.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\System.Threading.Timer.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\System.ValueTuple.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\System.Xml.ReaderWriter.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\System.Xml.XDocument.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\System.Xml.XmlDocument.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\System.Xml.XmlSerializer.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\System.Xml.XPath.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\System.Xml.XPath.XDocument.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\BarcodeStandard.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\FontAwesome.Sharp.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\Guna.UI2.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\MetroFramework.Design.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\MetroFramework.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\MetroFramework.Fonts.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\MetroSet UI.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\MySql.Data.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\Newtonsoft.Json.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\System.Drawing.Common.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\System.Json.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\Google.Protobuf.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\Zstandard.Net.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\K4os.Compression.LZ4.Streams.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\BouncyCastle.Crypto.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\Ubiety.Dns.Core.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\Renci.SshNet.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\System.Buffers.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\K4os.Compression.LZ4.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\K4os.Hash.xxHash.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\System.Memory.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\System.Numerics.Vectors.dll
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\MySql.Data.xml
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\Newtonsoft.Json.xml
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\System.Json.xml
+C:\Users\Sardorbek\Downloads\Telegram Desktop\Projects\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.csprojAssemblyReference.cache
+D:\Projects\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.exe.config
+D:\Projects\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmCashCheck.resources
+D:\Projects\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmCashDesk.resources
+D:\Projects\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmCheck.resources
+D:\Projects\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmDebtTulov.resources
+D:\Projects\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmFakturaItem.resources
+D:\Projects\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmLogin.resources
+D:\Projects\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmDebt.resources
+D:\Projects\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmDebtList.resources
+D:\Projects\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmMainMenu.resources
+D:\Projects\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmReturnQuantity.resources
+D:\Projects\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmSales.resources
+D:\Projects\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmTulov.resources
+D:\Projects\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmWaiting.resources
+D:\Projects\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.Properties.Resources.resources
+D:\Projects\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmSaleQuantity.resources
+D:\Projects\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.SoldList.resources
+D:\Projects\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmTovarQabuli.resources
+D:\Projects\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.csproj.GenerateResource.cache
+D:\Projects\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.csproj.CoreCompileInputs.cache
+D:\Projects\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.csproj.CopyComplete
+D:\Projects\JayhunElectro\Jayhunelectro\Jayhunelectro.exe.config
+D:\Projects\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.exe
+D:\Projects\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.pdb
+D:\Projects\JayhunElectro\Jayhunelectro\Jayhunelectro.exe
+D:\Projects\JayhunElectro\Jayhunelectro\Jayhunelectro.pdb
+D:\Projects\JayhunElectro\Jayhunelectro\Microsoft.Win32.Primitives.dll
+D:\Projects\JayhunElectro\Jayhunelectro\netstandard.dll
+D:\Projects\JayhunElectro\Jayhunelectro\System.AppContext.dll
+D:\Projects\JayhunElectro\Jayhunelectro\System.Collections.Concurrent.dll
+D:\Projects\JayhunElectro\Jayhunelectro\System.Collections.dll
+D:\Projects\JayhunElectro\Jayhunelectro\System.Collections.NonGeneric.dll
+D:\Projects\JayhunElectro\Jayhunelectro\System.Collections.Specialized.dll
+D:\Projects\JayhunElectro\Jayhunelectro\System.ComponentModel.dll
+D:\Projects\JayhunElectro\Jayhunelectro\System.ComponentModel.EventBasedAsync.dll
+D:\Projects\JayhunElectro\Jayhunelectro\System.ComponentModel.Primitives.dll
+D:\Projects\JayhunElectro\Jayhunelectro\System.ComponentModel.TypeConverter.dll
+D:\Projects\JayhunElectro\Jayhunelectro\System.Console.dll
+D:\Projects\JayhunElectro\Jayhunelectro\System.Data.Common.dll
+D:\Projects\JayhunElectro\Jayhunelectro\System.Diagnostics.Contracts.dll
+D:\Projects\JayhunElectro\Jayhunelectro\System.Diagnostics.Debug.dll
+D:\Projects\JayhunElectro\Jayhunelectro\System.Diagnostics.FileVersionInfo.dll
+D:\Projects\JayhunElectro\Jayhunelectro\System.Diagnostics.Process.dll
+D:\Projects\JayhunElectro\Jayhunelectro\System.Diagnostics.StackTrace.dll
+D:\Projects\JayhunElectro\Jayhunelectro\System.Diagnostics.TextWriterTraceListener.dll
+D:\Projects\JayhunElectro\Jayhunelectro\System.Diagnostics.Tools.dll
+D:\Projects\JayhunElectro\Jayhunelectro\System.Diagnostics.TraceSource.dll
+D:\Projects\JayhunElectro\Jayhunelectro\System.Diagnostics.Tracing.dll
+D:\Projects\JayhunElectro\Jayhunelectro\System.Drawing.Primitives.dll
+D:\Projects\JayhunElectro\Jayhunelectro\System.Dynamic.Runtime.dll
+D:\Projects\JayhunElectro\Jayhunelectro\System.Globalization.Calendars.dll
+D:\Projects\JayhunElectro\Jayhunelectro\System.Globalization.dll
+D:\Projects\JayhunElectro\Jayhunelectro\System.Globalization.Extensions.dll
+D:\Projects\JayhunElectro\Jayhunelectro\System.IO.Compression.dll
+D:\Projects\JayhunElectro\Jayhunelectro\System.IO.Compression.ZipFile.dll
+D:\Projects\JayhunElectro\Jayhunelectro\System.IO.dll
+D:\Projects\JayhunElectro\Jayhunelectro\System.IO.FileSystem.dll
+D:\Projects\JayhunElectro\Jayhunelectro\System.IO.FileSystem.DriveInfo.dll
+D:\Projects\JayhunElectro\Jayhunelectro\System.IO.FileSystem.Primitives.dll
+D:\Projects\JayhunElectro\Jayhunelectro\System.IO.FileSystem.Watcher.dll
+D:\Projects\JayhunElectro\Jayhunelectro\System.IO.IsolatedStorage.dll
+D:\Projects\JayhunElectro\Jayhunelectro\System.IO.MemoryMappedFiles.dll
+D:\Projects\JayhunElectro\Jayhunelectro\System.IO.Pipes.dll
+D:\Projects\JayhunElectro\Jayhunelectro\System.IO.UnmanagedMemoryStream.dll
+D:\Projects\JayhunElectro\Jayhunelectro\System.Linq.dll
+D:\Projects\JayhunElectro\Jayhunelectro\System.Linq.Expressions.dll
+D:\Projects\JayhunElectro\Jayhunelectro\System.Linq.Parallel.dll
+D:\Projects\JayhunElectro\Jayhunelectro\System.Linq.Queryable.dll
+D:\Projects\JayhunElectro\Jayhunelectro\System.Net.Http.dll
+D:\Projects\JayhunElectro\Jayhunelectro\System.Net.NameResolution.dll
+D:\Projects\JayhunElectro\Jayhunelectro\System.Net.NetworkInformation.dll
+D:\Projects\JayhunElectro\Jayhunelectro\System.Net.Ping.dll
+D:\Projects\JayhunElectro\Jayhunelectro\System.Net.Primitives.dll
+D:\Projects\JayhunElectro\Jayhunelectro\System.Net.Requests.dll
+D:\Projects\JayhunElectro\Jayhunelectro\System.Net.Security.dll
+D:\Projects\JayhunElectro\Jayhunelectro\System.Net.Sockets.dll
+D:\Projects\JayhunElectro\Jayhunelectro\System.Net.WebHeaderCollection.dll
+D:\Projects\JayhunElectro\Jayhunelectro\System.Net.WebSockets.Client.dll
+D:\Projects\JayhunElectro\Jayhunelectro\System.Net.WebSockets.dll
+D:\Projects\JayhunElectro\Jayhunelectro\System.ObjectModel.dll
+D:\Projects\JayhunElectro\Jayhunelectro\System.Reflection.dll
+D:\Projects\JayhunElectro\Jayhunelectro\System.Reflection.Extensions.dll
+D:\Projects\JayhunElectro\Jayhunelectro\System.Reflection.Primitives.dll
+D:\Projects\JayhunElectro\Jayhunelectro\System.Resources.Reader.dll
+D:\Projects\JayhunElectro\Jayhunelectro\System.Resources.ResourceManager.dll
+D:\Projects\JayhunElectro\Jayhunelectro\System.Resources.Writer.dll
+D:\Projects\JayhunElectro\Jayhunelectro\System.Runtime.CompilerServices.VisualC.dll
+D:\Projects\JayhunElectro\Jayhunelectro\System.Runtime.dll
+D:\Projects\JayhunElectro\Jayhunelectro\System.Runtime.Extensions.dll
+D:\Projects\JayhunElectro\Jayhunelectro\System.Runtime.Handles.dll
+D:\Projects\JayhunElectro\Jayhunelectro\System.Runtime.InteropServices.dll
+D:\Projects\JayhunElectro\Jayhunelectro\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Projects\JayhunElectro\Jayhunelectro\System.Runtime.Numerics.dll
+D:\Projects\JayhunElectro\Jayhunelectro\System.Runtime.Serialization.Formatters.dll
+D:\Projects\JayhunElectro\Jayhunelectro\System.Runtime.Serialization.Json.dll
+D:\Projects\JayhunElectro\Jayhunelectro\System.Runtime.Serialization.Primitives.dll
+D:\Projects\JayhunElectro\Jayhunelectro\System.Runtime.Serialization.Xml.dll
+D:\Projects\JayhunElectro\Jayhunelectro\System.Security.Claims.dll
+D:\Projects\JayhunElectro\Jayhunelectro\System.Security.Cryptography.Algorithms.dll
+D:\Projects\JayhunElectro\Jayhunelectro\System.Security.Cryptography.Csp.dll
+D:\Projects\JayhunElectro\Jayhunelectro\System.Security.Cryptography.Encoding.dll
+D:\Projects\JayhunElectro\Jayhunelectro\System.Security.Cryptography.Primitives.dll
+D:\Projects\JayhunElectro\Jayhunelectro\System.Security.Cryptography.X509Certificates.dll
+D:\Projects\JayhunElectro\Jayhunelectro\System.Security.Principal.dll
+D:\Projects\JayhunElectro\Jayhunelectro\System.Security.SecureString.dll
+D:\Projects\JayhunElectro\Jayhunelectro\System.Text.Encoding.dll
+D:\Projects\JayhunElectro\Jayhunelectro\System.Text.Encoding.Extensions.dll
+D:\Projects\JayhunElectro\Jayhunelectro\System.Text.RegularExpressions.dll
+D:\Projects\JayhunElectro\Jayhunelectro\System.Threading.dll
+D:\Projects\JayhunElectro\Jayhunelectro\System.Threading.Overlapped.dll
+D:\Projects\JayhunElectro\Jayhunelectro\System.Threading.Tasks.dll
+D:\Projects\JayhunElectro\Jayhunelectro\System.Threading.Tasks.Parallel.dll
+D:\Projects\JayhunElectro\Jayhunelectro\System.Threading.Thread.dll
+D:\Projects\JayhunElectro\Jayhunelectro\System.Threading.ThreadPool.dll
+D:\Projects\JayhunElectro\Jayhunelectro\System.Threading.Timer.dll
+D:\Projects\JayhunElectro\Jayhunelectro\System.ValueTuple.dll
+D:\Projects\JayhunElectro\Jayhunelectro\System.Xml.ReaderWriter.dll
+D:\Projects\JayhunElectro\Jayhunelectro\System.Xml.XDocument.dll
+D:\Projects\JayhunElectro\Jayhunelectro\System.Xml.XmlDocument.dll
+D:\Projects\JayhunElectro\Jayhunelectro\System.Xml.XmlSerializer.dll
+D:\Projects\JayhunElectro\Jayhunelectro\System.Xml.XPath.dll
+D:\Projects\JayhunElectro\Jayhunelectro\System.Xml.XPath.XDocument.dll
+D:\Projects\JayhunElectro\Jayhunelectro\BarcodeStandard.dll
+D:\Projects\JayhunElectro\Jayhunelectro\FontAwesome.Sharp.dll
+D:\Projects\JayhunElectro\Jayhunelectro\Guna.UI2.dll
+D:\Projects\JayhunElectro\Jayhunelectro\MetroFramework.Design.dll
+D:\Projects\JayhunElectro\Jayhunelectro\MetroFramework.dll
+D:\Projects\JayhunElectro\Jayhunelectro\MetroFramework.Fonts.dll
+D:\Projects\JayhunElectro\Jayhunelectro\MetroSet UI.dll
+D:\Projects\JayhunElectro\Jayhunelectro\MySql.Data.dll
+D:\Projects\JayhunElectro\Jayhunelectro\Newtonsoft.Json.dll
+D:\Projects\JayhunElectro\Jayhunelectro\System.Drawing.Common.dll
+D:\Projects\JayhunElectro\Jayhunelectro\System.Json.dll
+D:\Projects\JayhunElectro\Jayhunelectro\Google.Protobuf.dll
+D:\Projects\JayhunElectro\Jayhunelectro\Zstandard.Net.dll
+D:\Projects\JayhunElectro\Jayhunelectro\K4os.Compression.LZ4.Streams.dll
+D:\Projects\JayhunElectro\Jayhunelectro\BouncyCastle.Crypto.dll
+D:\Projects\JayhunElectro\Jayhunelectro\Ubiety.Dns.Core.dll
+D:\Projects\JayhunElectro\Jayhunelectro\Renci.SshNet.dll
+D:\Projects\JayhunElectro\Jayhunelectro\System.Buffers.dll
+D:\Projects\JayhunElectro\Jayhunelectro\K4os.Compression.LZ4.dll
+D:\Projects\JayhunElectro\Jayhunelectro\K4os.Hash.xxHash.dll
+D:\Projects\JayhunElectro\Jayhunelectro\System.Runtime.CompilerServices.Unsafe.dll
+D:\Projects\JayhunElectro\Jayhunelectro\MySql.Data.xml
+D:\Projects\JayhunElectro\Jayhunelectro\Newtonsoft.Json.xml
+D:\Projects\JayhunElectro\Jayhunelectro\System.Json.xml
+D:\Projects\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmEditPrice.resources
+D:\Projects\JayhunElectro\Jayhunelectro\Bunifu.UI.WinForms.1.5.3.dll
+D:\Projects\JayhunElectro\Jayhunelectro\System.Memory.dll
+D:\Projects\JayhunElectro\Jayhunelectro\System.Numerics.Vectors.dll
+D:\Projects\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.csprojAssemblyReference.cache
+E:\Projects\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.exe.config
+E:\Projects\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmCashCheck.resources
+E:\Projects\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmCashDesk.resources
+E:\Projects\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmCheck.resources
+E:\Projects\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmDebtTulov.resources
+E:\Projects\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmFakturaItem.resources
+E:\Projects\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmLogin.resources
+E:\Projects\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmDebt.resources
+E:\Projects\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmDebtList.resources
+E:\Projects\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmEditPrice.resources
+E:\Projects\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmMainMenu.resources
+E:\Projects\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmReturnQuantity.resources
+E:\Projects\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmSales.resources
+E:\Projects\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmTulov.resources
+E:\Projects\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmWaiting.resources
+E:\Projects\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.Properties.Resources.resources
+E:\Projects\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmSaleQuantity.resources
+E:\Projects\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.SoldList.resources
+E:\Projects\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.frmTovarQabuli.resources
+E:\Projects\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.csproj.GenerateResource.cache
+E:\Projects\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.csproj.CoreCompileInputs.cache
+E:\Projects\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.csproj.CopyComplete
+E:\Projects\JayhunElectro\Jayhunelectro\Jayhunelectro.exe.config
+E:\Projects\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.exe
+E:\Projects\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.pdb
+E:\Projects\JayhunElectro\Jayhunelectro\Jayhunelectro.exe
+E:\Projects\JayhunElectro\Jayhunelectro\Jayhunelectro.pdb
+E:\Projects\JayhunElectro\Jayhunelectro\Microsoft.Win32.Primitives.dll
+E:\Projects\JayhunElectro\Jayhunelectro\netstandard.dll
+E:\Projects\JayhunElectro\Jayhunelectro\System.AppContext.dll
+E:\Projects\JayhunElectro\Jayhunelectro\System.Collections.Concurrent.dll
+E:\Projects\JayhunElectro\Jayhunelectro\System.Collections.dll
+E:\Projects\JayhunElectro\Jayhunelectro\System.Collections.NonGeneric.dll
+E:\Projects\JayhunElectro\Jayhunelectro\System.Collections.Specialized.dll
+E:\Projects\JayhunElectro\Jayhunelectro\System.ComponentModel.dll
+E:\Projects\JayhunElectro\Jayhunelectro\System.ComponentModel.EventBasedAsync.dll
+E:\Projects\JayhunElectro\Jayhunelectro\System.ComponentModel.Primitives.dll
+E:\Projects\JayhunElectro\Jayhunelectro\System.ComponentModel.TypeConverter.dll
+E:\Projects\JayhunElectro\Jayhunelectro\System.Console.dll
+E:\Projects\JayhunElectro\Jayhunelectro\System.Data.Common.dll
+E:\Projects\JayhunElectro\Jayhunelectro\System.Diagnostics.Contracts.dll
+E:\Projects\JayhunElectro\Jayhunelectro\System.Diagnostics.Debug.dll
+E:\Projects\JayhunElectro\Jayhunelectro\System.Diagnostics.FileVersionInfo.dll
+E:\Projects\JayhunElectro\Jayhunelectro\System.Diagnostics.Process.dll
+E:\Projects\JayhunElectro\Jayhunelectro\System.Diagnostics.StackTrace.dll
+E:\Projects\JayhunElectro\Jayhunelectro\System.Diagnostics.TextWriterTraceListener.dll
+E:\Projects\JayhunElectro\Jayhunelectro\System.Diagnostics.Tools.dll
+E:\Projects\JayhunElectro\Jayhunelectro\System.Diagnostics.TraceSource.dll
+E:\Projects\JayhunElectro\Jayhunelectro\System.Diagnostics.Tracing.dll
+E:\Projects\JayhunElectro\Jayhunelectro\System.Drawing.Primitives.dll
+E:\Projects\JayhunElectro\Jayhunelectro\System.Dynamic.Runtime.dll
+E:\Projects\JayhunElectro\Jayhunelectro\System.Globalization.Calendars.dll
+E:\Projects\JayhunElectro\Jayhunelectro\System.Globalization.dll
+E:\Projects\JayhunElectro\Jayhunelectro\System.Globalization.Extensions.dll
+E:\Projects\JayhunElectro\Jayhunelectro\System.IO.Compression.dll
+E:\Projects\JayhunElectro\Jayhunelectro\System.IO.Compression.ZipFile.dll
+E:\Projects\JayhunElectro\Jayhunelectro\System.IO.dll
+E:\Projects\JayhunElectro\Jayhunelectro\System.IO.FileSystem.dll
+E:\Projects\JayhunElectro\Jayhunelectro\System.IO.FileSystem.DriveInfo.dll
+E:\Projects\JayhunElectro\Jayhunelectro\System.IO.FileSystem.Primitives.dll
+E:\Projects\JayhunElectro\Jayhunelectro\System.IO.FileSystem.Watcher.dll
+E:\Projects\JayhunElectro\Jayhunelectro\System.IO.IsolatedStorage.dll
+E:\Projects\JayhunElectro\Jayhunelectro\System.IO.MemoryMappedFiles.dll
+E:\Projects\JayhunElectro\Jayhunelectro\System.IO.Pipes.dll
+E:\Projects\JayhunElectro\Jayhunelectro\System.IO.UnmanagedMemoryStream.dll
+E:\Projects\JayhunElectro\Jayhunelectro\System.Linq.dll
+E:\Projects\JayhunElectro\Jayhunelectro\System.Linq.Expressions.dll
+E:\Projects\JayhunElectro\Jayhunelectro\System.Linq.Parallel.dll
+E:\Projects\JayhunElectro\Jayhunelectro\System.Linq.Queryable.dll
+E:\Projects\JayhunElectro\Jayhunelectro\System.Net.Http.dll
+E:\Projects\JayhunElectro\Jayhunelectro\System.Net.NameResolution.dll
+E:\Projects\JayhunElectro\Jayhunelectro\System.Net.NetworkInformation.dll
+E:\Projects\JayhunElectro\Jayhunelectro\System.Net.Ping.dll
+E:\Projects\JayhunElectro\Jayhunelectro\System.Net.Primitives.dll
+E:\Projects\JayhunElectro\Jayhunelectro\System.Net.Requests.dll
+E:\Projects\JayhunElectro\Jayhunelectro\System.Net.Security.dll
+E:\Projects\JayhunElectro\Jayhunelectro\System.Net.Sockets.dll
+E:\Projects\JayhunElectro\Jayhunelectro\System.Net.WebHeaderCollection.dll
+E:\Projects\JayhunElectro\Jayhunelectro\System.Net.WebSockets.Client.dll
+E:\Projects\JayhunElectro\Jayhunelectro\System.Net.WebSockets.dll
+E:\Projects\JayhunElectro\Jayhunelectro\System.ObjectModel.dll
+E:\Projects\JayhunElectro\Jayhunelectro\System.Reflection.dll
+E:\Projects\JayhunElectro\Jayhunelectro\System.Reflection.Extensions.dll
+E:\Projects\JayhunElectro\Jayhunelectro\System.Reflection.Primitives.dll
+E:\Projects\JayhunElectro\Jayhunelectro\System.Resources.Reader.dll
+E:\Projects\JayhunElectro\Jayhunelectro\System.Resources.ResourceManager.dll
+E:\Projects\JayhunElectro\Jayhunelectro\System.Resources.Writer.dll
+E:\Projects\JayhunElectro\Jayhunelectro\System.Runtime.CompilerServices.VisualC.dll
+E:\Projects\JayhunElectro\Jayhunelectro\System.Runtime.dll
+E:\Projects\JayhunElectro\Jayhunelectro\System.Runtime.Extensions.dll
+E:\Projects\JayhunElectro\Jayhunelectro\System.Runtime.Handles.dll
+E:\Projects\JayhunElectro\Jayhunelectro\System.Runtime.InteropServices.dll
+E:\Projects\JayhunElectro\Jayhunelectro\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Projects\JayhunElectro\Jayhunelectro\System.Runtime.Numerics.dll
+E:\Projects\JayhunElectro\Jayhunelectro\System.Runtime.Serialization.Formatters.dll
+E:\Projects\JayhunElectro\Jayhunelectro\System.Runtime.Serialization.Json.dll
+E:\Projects\JayhunElectro\Jayhunelectro\System.Runtime.Serialization.Primitives.dll
+E:\Projects\JayhunElectro\Jayhunelectro\System.Runtime.Serialization.Xml.dll
+E:\Projects\JayhunElectro\Jayhunelectro\System.Security.Claims.dll
+E:\Projects\JayhunElectro\Jayhunelectro\System.Security.Cryptography.Algorithms.dll
+E:\Projects\JayhunElectro\Jayhunelectro\System.Security.Cryptography.Csp.dll
+E:\Projects\JayhunElectro\Jayhunelectro\System.Security.Cryptography.Encoding.dll
+E:\Projects\JayhunElectro\Jayhunelectro\System.Security.Cryptography.Primitives.dll
+E:\Projects\JayhunElectro\Jayhunelectro\System.Security.Cryptography.X509Certificates.dll
+E:\Projects\JayhunElectro\Jayhunelectro\System.Security.Principal.dll
+E:\Projects\JayhunElectro\Jayhunelectro\System.Security.SecureString.dll
+E:\Projects\JayhunElectro\Jayhunelectro\System.Text.Encoding.dll
+E:\Projects\JayhunElectro\Jayhunelectro\System.Text.Encoding.Extensions.dll
+E:\Projects\JayhunElectro\Jayhunelectro\System.Text.RegularExpressions.dll
+E:\Projects\JayhunElectro\Jayhunelectro\System.Threading.dll
+E:\Projects\JayhunElectro\Jayhunelectro\System.Threading.Overlapped.dll
+E:\Projects\JayhunElectro\Jayhunelectro\System.Threading.Tasks.dll
+E:\Projects\JayhunElectro\Jayhunelectro\System.Threading.Tasks.Parallel.dll
+E:\Projects\JayhunElectro\Jayhunelectro\System.Threading.Thread.dll
+E:\Projects\JayhunElectro\Jayhunelectro\System.Threading.ThreadPool.dll
+E:\Projects\JayhunElectro\Jayhunelectro\System.Threading.Timer.dll
+E:\Projects\JayhunElectro\Jayhunelectro\System.ValueTuple.dll
+E:\Projects\JayhunElectro\Jayhunelectro\System.Xml.ReaderWriter.dll
+E:\Projects\JayhunElectro\Jayhunelectro\System.Xml.XDocument.dll
+E:\Projects\JayhunElectro\Jayhunelectro\System.Xml.XmlDocument.dll
+E:\Projects\JayhunElectro\Jayhunelectro\System.Xml.XmlSerializer.dll
+E:\Projects\JayhunElectro\Jayhunelectro\System.Xml.XPath.dll
+E:\Projects\JayhunElectro\Jayhunelectro\System.Xml.XPath.XDocument.dll
+E:\Projects\JayhunElectro\Jayhunelectro\BarcodeStandard.dll
+E:\Projects\JayhunElectro\Jayhunelectro\FontAwesome.Sharp.dll
+E:\Projects\JayhunElectro\Jayhunelectro\Guna.UI2.dll
+E:\Projects\JayhunElectro\Jayhunelectro\MetroFramework.Design.dll
+E:\Projects\JayhunElectro\Jayhunelectro\MetroFramework.dll
+E:\Projects\JayhunElectro\Jayhunelectro\MetroFramework.Fonts.dll
+E:\Projects\JayhunElectro\Jayhunelectro\MetroSet UI.dll
+E:\Projects\JayhunElectro\Jayhunelectro\MySql.Data.dll
+E:\Projects\JayhunElectro\Jayhunelectro\Newtonsoft.Json.dll
+E:\Projects\JayhunElectro\Jayhunelectro\System.Drawing.Common.dll
+E:\Projects\JayhunElectro\Jayhunelectro\System.Json.dll
+E:\Projects\JayhunElectro\Jayhunelectro\Google.Protobuf.dll
+E:\Projects\JayhunElectro\Jayhunelectro\Zstandard.Net.dll
+E:\Projects\JayhunElectro\Jayhunelectro\K4os.Compression.LZ4.Streams.dll
+E:\Projects\JayhunElectro\Jayhunelectro\BouncyCastle.Crypto.dll
+E:\Projects\JayhunElectro\Jayhunelectro\Ubiety.Dns.Core.dll
+E:\Projects\JayhunElectro\Jayhunelectro\Renci.SshNet.dll
+E:\Projects\JayhunElectro\Jayhunelectro\System.Buffers.dll
+E:\Projects\JayhunElectro\Jayhunelectro\K4os.Compression.LZ4.dll
+E:\Projects\JayhunElectro\Jayhunelectro\K4os.Hash.xxHash.dll
+E:\Projects\JayhunElectro\Jayhunelectro\System.Memory.dll
+E:\Projects\JayhunElectro\Jayhunelectro\System.Runtime.CompilerServices.Unsafe.dll
+E:\Projects\JayhunElectro\Jayhunelectro\System.Numerics.Vectors.dll
+E:\Projects\JayhunElectro\Jayhunelectro\MySql.Data.xml
+E:\Projects\JayhunElectro\Jayhunelectro\Newtonsoft.Json.xml
+E:\Projects\JayhunElectro\Jayhunelectro\System.Json.xml
+E:\Projects\JayhunElectro\Jayhunelectro\obj\Debug\Jayhunelectro.csproj.AssemblyReference.cache
